@@ -1,5 +1,5 @@
 # HookedNewsApp
-NewsMonkey is a React.js-based news application that fetches and displays real-time news articles using the NewsAPI and the Fetch API. The app leverages React Hooks like useState and useEffect to manage state and fetch data dynamically.
+HookedNews is a React.js-based news application that fetches and displays real-time news articles using the NewsAPI and the Fetch API. The app leverages React Hooks like useState and useEffect to manage state and fetch data dynamically.
 
 ## Key Features:
 **Live News Updates** – Fetches the latest news from various sources via NewsAPI.
